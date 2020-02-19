@@ -1,1 +1,1 @@
-# general_scripts
+General scripts I use in bioinformatic analysis
